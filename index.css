@@ -15,3 +15,7 @@ body {
   background-color: wheat;
   text-align: center;
 }
+
+section {
+  display: grid;
+}
